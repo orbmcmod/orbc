@@ -1,27 +1,27 @@
 {
-	"schemaVersion": 1,
-	"id": "orbc",
-	"version": "${version}",
-	"name": "orbc",
-	"description": "Makes ores actually drop ores! - Create Edition",
-	"authors": ["bengiv"],
-	"contact": {
-		"homepage": "https://modrinth.com/mod/orb-create",
-		"sources": "https://github.com/bengiv/orbc",
-		"issues": "https://github.com/bengiv/orbc/issues",
-		"email": "ben@tar.black"
-	},
-	"license": "CC0-1.0",
-	"icon": "assets/orbc/icon.png",
-	"environment": "*",
-	"entrypoints": {
-		"main": ["dev.bengiv.Orbc"],
-		"fabric-datagen": ["dev.bengiv.OrbcDataGenerator"]
-	},
-	"depends": {
-		"fabricloader": ">=0.14.0",
-		"minecraft": ">=1.17.1",
-		"java": ">=17",
-		"fabric-api": "*"
-	}
+  "schemaVersion": 1,
+  "id": "orbc",
+  "version": "${version}",
+  "name": "orbc",
+  "description": "Makes ores actually drop ores! - Create Edition",
+  "authors": ["bengiv"],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/orb-create",
+    "sources": "https://github.com/bengiv/orbc",
+    "issues": "https://github.com/bengiv/orbc/issues",
+    "email": "ben@tar.black"
+  },
+  "license": "CC0-1.0",
+  "icon": "assets/orbc/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["dev.bengiv.Orbc"],
+    "fabric-datagen": ["dev.bengiv.OrbcDataGenerator"]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.0",
+    "minecraft": ">=1.17.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
 }
