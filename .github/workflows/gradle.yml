@@ -40,7 +40,7 @@ jobs:
       uses: actions/upload-artifact@v4
       with:
         name: jars
-        path: /home/runner/work/orb/orb/build/libs/
+        path: /home/runner/work/orbc/orbc/build/libs/
         if-no-files-found: error
         overwrite: true
 
