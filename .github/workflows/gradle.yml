@@ -36,6 +36,9 @@ jobs:
     - name: Build with Gradle Wrapper
       run: ./gradlew build
 
+    - name: pwd
+      run: pwd
+
     - name: upload jar
       uses: actions/upload-artifact@v4
       with:
