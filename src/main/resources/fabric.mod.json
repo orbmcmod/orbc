@@ -6,7 +6,7 @@
   "description": "Makes ores actually drop ores! - Create Edition",
   "authors": ["bengiv"],
   "contact": {
-    "homepage": "https://modrinth.com/mod/orb-create",
+    "homepage": "https://bento.me/bengiv",
     "sources": "https://github.com/bengiv/orbc",
     "issues": "https://github.com/bengiv/orbc/issues",
     "email": "dev.bengiv@icloud.com"
@@ -20,7 +20,7 @@
   },
   "depends": {
     "fabricloader": ">=0.14.0",
-    "minecraft": ">=1.20.5",
+    "minecraft": ">=1.21",
     "java": ">=21",
     "fabric-api": "*"
   }
