@@ -1,3 +1,5 @@
+# <img src="https://raw.githubusercontent.com/orbmcmod/assets/refs/heads/main/banners/ORB.png">
+
 ## What does this mod do?
 Everything that normal ORB also does, see [ORB](https://modrinth.com/mod/orb-oresrback)
 
