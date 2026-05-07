@@ -1,3 +1,6 @@
+> moved to: https://codeberg.org/orbmc/orbc
+---
+
 # <img src="https://raw.githubusercontent.com/orbmcmod/assets/refs/heads/main/banners/ORB.png">
 
 ## What does this mod do?
